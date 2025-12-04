@@ -1,0 +1,12 @@
+{
+  "name": "com.happyfaces.firebase",
+  "version": "1.0.0",
+  "displayName": "HappyFaces Firebase SDK (UPM)",
+  "description": "Firebase Unity SDK packaged for UPM without native binaries. Native dependencies are resolved via EDM4U.",
+  "unity": "2021.3",
+  "author": {
+    "name": "HappyFaces Games",
+    "url": "https://happyfacesgames.com"
+  },
+  "keywords": ["firebase", "analytics", "messaging", "crashlytics", "remoteconfig"]
+}
