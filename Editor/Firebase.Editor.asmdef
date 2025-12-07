@@ -1,0 +1,11 @@
+{
+  "name": "HappyFaces.Firebase.Editor",
+  "references": [
+    "Google.JarResolver",
+    "Google.VersionHandler"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

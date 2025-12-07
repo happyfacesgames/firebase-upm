@@ -1,12 +1,14 @@
 {
-  "name": "com.happyfaces.firebase",
+  "name": "com.happyfaces.firebase.editor",
   "version": "1.0.0",
-  "displayName": "HappyFaces Firebase SDK (UPM)",
-  "description": "Firebase Unity SDK packaged for UPM without native binaries. Native dependencies are resolved via EDM4U.",
+  "displayName": "Firebase Editor Support for HappyFaces",
+  "description": "Editor scripts and dependency definitions required for Firebase Unity SDK via UPM.",
   "unity": "2021.3",
+  "type": "tool",
   "author": {
-    "name": "HappyFaces Games",
-    "url": "https://happyfacesgames.com"
+    "name": "HappyFaces Games"
   },
-  "keywords": ["firebase", "analytics", "messaging", "crashlytics", "remoteconfig"]
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.183"
+  }
 }
