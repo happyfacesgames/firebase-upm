@@ -4,7 +4,7 @@ namespace Google {
   public static class VersionHandlerImpl_002 {
     static VersionHandlerImpl_002() {
       Google.VersionHandler.InvokeStaticMethod(
-          "Google.VersionHandlerImpl",
+          typeof(Google.VersionHandlerImpl),
           "RegisterUnityCallbacks", null, null);
     }
   }

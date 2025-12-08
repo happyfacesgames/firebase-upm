@@ -1,21 +1,2 @@
 fileFormatVersion: 2
-guid: 74f4aae884d547a0
-PluginImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  iconMap: {}
-  executionOrder: {}
-  defineConstraints: []
-  isPreloaded: 0
-  isOverridable: 1
-  isExplicitlyReferenced: 1
-  validateReferences: 1
-  platformData:
-  - first:
-      Any:
-    second:
-      enabled: 1
-      settings: {}
-  userData:
-  assetBundleName:
-  assetBundleVariant:
+guid: 59ebdbaf965ae414884fcd4568eccd76

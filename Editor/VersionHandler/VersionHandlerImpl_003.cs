@@ -4,7 +4,7 @@ namespace Google {
   public static class VersionHandlerImpl_003 {
     static VersionHandlerImpl_003() {
       Google.VersionHandler.InvokeStaticMethod(
-          "Google.VersionHandlerImpl",
+          typeof(Google.VersionHandlerImpl),
           "TryAddVersionHandler", null, null);
     }
   }
