@@ -1,8 +1,0 @@
-<dependencies>
-  <androidPackages>
-    <androidPackage spec="com.google.firebase:firebase-firestore:25.0.0">
-      <repositories><repository>https://maven.google.com</repository></repositories>
-    </androidPackage>
-  </androidPackages>
-  <iosPods><iosPod name="Firebase/Firestore"/></iosPods>
-</dependencies>
